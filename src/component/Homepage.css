@@ -1,0 +1,28 @@
+.Homepage-card{
+    height: 95%;
+    width: 98%;
+    background: linear-gradient(180deg, #749BC2 0%, rgba(16, 197, 143, 0.00) 100%);
+    border-radius: 10px;
+    margin-top: 20px;
+    margin-left: 10px;
+    overflow: clip;
+}
+.explore {
+    width: 200px;
+    height: 70px;
+    margin-top: 500px;
+    margin-left: 100px;
+    border-radius: 10px;
+    padding: 10px 20px; /* Adjust the padding as needed */
+    background-color: #007bff; /* Button background color */
+    color: #fff; /* Text color */
+    font-size: 18px; /* Font size */
+    border: none;
+    border-radius: 5px; /* Rounded corners */
+    cursor: pointer;
+    transition: background-color 0.3s ease; /* Add a smooth transition effect */
+  }
+  
+  .explore:hover {
+    background-color: #0056b3; /* Change the background color on hover */
+  }
